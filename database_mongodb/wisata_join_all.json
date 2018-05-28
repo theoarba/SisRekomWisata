@@ -1,0 +1,99 @@
+{"_id":1,"nama":"Jazz Mben Senen","kategori":"Wisata Seni \u0026 Budaya","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.7857189,"lat":110.3725067},"sentimen":100.0}
+{"_id":2,"nama":"Ramayana Ballet","kategori":"Wisata Seni \u0026 Budaya","tiket":400000.0,"jam_buka":"pukul 19.30 - 21.30 WIB (sesuai jadwal)","lokasi":{"lng":-74.026675,"lat":40.683935},"sentimen":70.0}
+{"_id":3,"nama":"Kraton","kategori":"Wisata Seni \u0026 Budaya","tiket":7500.0,"jam_buka":"Senin - Kamis: pukul 08.30 - 13.30 WIB Jumat: pukul 08.30 - 12.30 WIB Sabtu dan Minggu: pukul 08.30 - 13.30 WIB","lokasi":{"lng":-7.8051177,"lat":110.3641832},"sentimen":76.37130801687763}
+{"_id":4,"nama":"Sendratari Sugriwa Subali","kategori":"Wisata Seni \u0026 Budaya","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.0596817,"lat":110.2415246},"sentimen":0}
+{"_id":5,"nama":"Museum Sonobudoyo","kategori":"Wisata Seni \u0026 Budaya","tiket":3000.0,"jam_buka":"Senin dan hari libur nasional: Tutup Selasa - Kamis: pukul 08:00 - 15.30 WIB Jumat: pukul 08.00 - 14.00 WIB Sabtu dan Minggu: pukul 08.00 - 15.30 WIB","lokasi":{"lng":-7.8017884,"lat":110.3645226},"sentimen":100.0}
+{"_id":6,"nama":"Bintaran","kategori":"Tapak Tilas","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.8026492,"lat":110.3724176},"sentimen":100.0}
+{"_id":7,"nama":"Kotabaru","kategori":"Tapak Tilas","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.786027,"lat":110.3719049},"sentimen":93.33333333333334}
+{"_id":8,"nama":"Pecinan","kategori":"Tapak Tilas","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.7879508,"lat":110.3714968},"sentimen":87.91946308724832}
+{"_id":9,"nama":"Pertunjukan Wayang Kulit","kategori":"Wisata Seni \u0026 Budaya","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam, ","lokasi":{"lng":-7.801869,"lat":110.362164},"sentimen":20.0}
+{"_id":10,"nama":"Sendang Sriningsih","kategori":"Tapak Tilas","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.7987522,"lat":110.5238939},"sentimen":0}
+{"_id":11,"nama":"Sasana Wiratama","kategori":"Tapak Tilas","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.7871998,"lat":110.3507077},"sentimen":0}
+{"_id":12,"nama":"Gua Maria Tritis","kategori":"Tapak Tilas","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.0826464,"lat":110.554515},"sentimen":100.0}
+{"_id":13,"nama":"Candi Ijo","kategori":"Candi","tiket":5000.0,"jam_buka":"Senin - Minggu: pukul 06.00 - 17.00 WIB","lokasi":{"lng":-7.7838099,"lat":110.5108453},"sentimen":75.46012269938649}
+{"_id":14,"nama":"Masjid Kotagede","kategori":"Tapak Tilas","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.8208644,"lat":110.4017414},"sentimen":100.0}
+{"_id":15,"nama":"Pabrik Gula Madukismo","kategori":"Tapak Tilas","tiket":7000.0,"jam_buka":"Senin - Kamis: pukul 07.30 - 15.00 WIB Jumat - Sabtu: pukul 07:30 - 11.30 WIB","lokasi":{"lng":-7.8305053,"lat":110.343587},"sentimen":100.0}
+{"_id":16,"nama":"Gereja Ganjuran","kategori":"Tapak Tilas","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.9263061,"lat":110.3172478},"sentimen":84.61538461538461}
+{"_id":17,"nama":"Kampung Kauman","kategori":"Tapak Tilas","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.5730351,"lat":110.8236607},"sentimen":58.13953488372093}
+{"_id":18,"nama":"Museum Sasmitaloka","kategori":"Tapak Tilas","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.8023698,"lat":110.3743054},"sentimen":0}
+{"_id":19,"nama":"Sendang Sono","kategori":"Tapak Tilas","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.6645913,"lat":110.2265921},"sentimen":100.0}
+{"_id":20,"nama":"Gua Jepang Parangtritis","kategori":"Tapak Tilas","tiket":5000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.9998081,"lat":110.3317977},"sentimen":0}
+{"_id":21,"nama":"Gunung Nglanggeran","kategori":"Wisata Alam \u0026 Outdoor","tiket":15000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.8447168,"lat":110.5441042},"sentimen":98.63013698630138}
+{"_id":22,"nama":"Alun-alun Kidul","kategori":"Tempat Menarik","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.8118922,"lat":110.3621212},"sentimen":74.19354838709677}
+{"_id":23,"nama":"Kedung Pedut","kategori":"Wisata Alam \u0026 Outdoor","tiket":6000.0,"jam_buka":"Senin - Minggu: pukul 08.00 - 17.00 WIB","lokasi":{"lng":-7.7666827,"lat":110.1180826},"sentimen":33.333333333333336}
+{"_id":24,"nama":"Gua Kidang Kencana","kategori":"Wisata Alam \u0026 Outdoor","tiket":15000.0,"jam_buka":"Senin - Minggu: pukul 09.00 - 16.00 WIB","lokasi":{"lng":-7.7364091,"lat":110.1304737},"sentimen":0}
+{"_id":25,"nama":"Gunung Gambar","kategori":"Wisata Alam \u0026 Outdoor","tiket":2800.0,"jam_buka":"Senin - Minggu: pukul 08.00 - 17.00 WIB","lokasi":{"lng":-7.8212026,"lat":110.6693913},"sentimen":82.1917808219178}
+{"_id":26,"nama":"Kebun Teh Nglinggo","kategori":"Wisata Alam \u0026 Outdoor","tiket":5000.0,"jam_buka":"Senin - Minggu: pukul 07.00 - 17.00 WIB","lokasi":{"lng":-7.6470487,"lat":110.1392812},"sentimen":33.333333333333336}
+{"_id":27,"nama":"Kaliurang","kategori":"Wisata Alam \u0026 Outdoor","tiket":2000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.6032307,"lat":110.3707085},"sentimen":76.93333333333334}
+{"_id":28,"nama":"Air Terjun Sri Gethuk","kategori":"Wisata Alam \u0026 Outdoor","tiket":10000.0,"jam_buka":"Senin - Minggu: pukul 08.00 - 16.00 WIB","lokasi":{"lng":-7.9428521,"lat":110.4871372},"sentimen":100.0}
+{"_id":29,"nama":"Selokan Mataram","kategori":"Wisata Alam \u0026 Outdoor","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.757335,"lat":110.3700076},"sentimen":85.26315789473684}
+{"_id":30,"nama":"Wanagama","kategori":"Wisata Alam \u0026 Outdoor","tiket":5000.0,"jam_buka":"Senin - Minggu: pukul 07.00 - 16.00 WIB","lokasi":{"lng":-7.905017,"lat":110.5255697},"sentimen":100.0}
+{"_id":31,"nama":"Puncak Suroloyo","kategori":"Wisata Alam \u0026 Outdoor","tiket":5000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.6462861,"lat":110.1723828},"sentimen":69.23076923076923}
+{"_id":32,"nama":"Waduk Sermo","kategori":"Wisata Alam \u0026 Outdoor","tiket":5000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.8226299,"lat":110.1214351},"sentimen":68.0}
+{"_id":33,"nama":"Gua Rancang Kencono","kategori":"Wisata Alam \u0026 Outdoor","tiket":35000.0,"jam_buka":"Senin - Minggu: pukul 08.00 - 16.00 WIB","lokasi":{"lng":-7.9492559,"lat":110.4904624},"sentimen":0}
+{"_id":34,"nama":"Pertunjukan Gamelan","kategori":"Wisata Seni \u0026 Budaya","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.801869,"lat":110.362164},"sentimen":100.0}
+{"_id":35,"nama":"Gunung Merapi","kategori":"Wisata Alam \u0026 Outdoor","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.5418942,"lat":110.4418444},"sentimen":79.73333333333335}
+{"_id":36,"nama":"Gua Jomblang","kategori":"Wisata Alam \u0026 Outdoor","tiket":450000.0,"jam_buka":"Senin - Minggu: pukul 10.00 - 14.00 WIB","lokasi":{"lng":-8.0286547,"lat":110.6362083},"sentimen":100.0}
+{"_id":37,"nama":"Kalibiru","kategori":"Wisata Alam \u0026 Outdoor","tiket":10000.0,"jam_buka":"Senin - Minggu: pukul 08.00 - 16.00 WIB","lokasi":{"lng":-7.803582,"lat":110.1257624},"sentimen":75.34246575342465}
+{"_id":38,"nama":"Taman Sungai Mudal","kategori":"Wisata Alam \u0026 Outdoor","tiket":4000.0,"jam_buka":"Senin - Minggu: pukul 08.00 - 17.00 WIB","lokasi":{"lng":-7.764175,"lat":110.1146287},"sentimen":100.0}
+{"_id":39,"nama":"Cave Tubing Kalisuci","kategori":"Wisata Alam \u0026 Outdoor","tiket":5000.0,"jam_buka":"Senin - Minggu: pukul 08.00 - 16.00 WIB","lokasi":{"lng":-8.010546,"lat":110.6341025},"sentimen":75.0}
+{"_id":40,"nama":"Sosrokusuman","kategori":"Tempat Menarik","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.7487224,"lat":110.3582369},"sentimen":100.0}
+{"_id":41,"nama":"Gunung Ireng","kategori":"Wisata Alam \u0026 Outdoor","tiket":3000.0,"jam_buka":"Senin - Minggu: pukul 08.00 - 17.00 WIB","lokasi":{"lng":-7.8827447,"lat":110.4877557},"sentimen":100.0}
+{"_id":42,"nama":"Museum Affandi","kategori":"Wisata Seni \u0026 Budaya","tiket":25000.0,"jam_buka":"Senin - Sabtu: pukul 09.00 - 16.00 WIB (tempat ini ditutup untuk pengunjung pada hari Minggu, hari Senin pertama di setiap bulan dan hari libur nasional, kecuali dengan perjanjian)","lokasi":{"lng":-7.7827077,"lat":110.3942083},"sentimen":100.0}
+{"_id":43,"nama":"Gua Kiskendo","kategori":"Wisata Alam \u0026 Outdoor","tiket":5000.0,"jam_buka":"Senin - Minggu: pukul 08.00 - 17.00 WIB","lokasi":{"lng":-7.0596404,"lat":110.2393708},"sentimen":0}
+{"_id":44,"nama":"Taman Pintar Yogyakarta","kategori":"Tempat Menarik","tiket":20000.0,"jam_buka":"Senin: Tutup (kecuali libur nasional buka) Selasa - Minggu: pukul 08.30 - 16.00 WIB","lokasi":{"lng":-7.8005759,"lat":110.3659697},"sentimen":100.0}
+{"_id":45,"nama":"Sosrowijayan","kategori":"Tempat Menarik","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.7915863,"lat":110.3624904},"sentimen":61.29032258064517}
+{"_id":46,"nama":"Malioboro","kategori":"Tempat Menarik","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.7937339,"lat":110.3649961},"sentimen":92.93333333333334}
+{"_id":47,"nama":"Prawirotaman","kategori":"Tempat Menarik","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.8189431,"lat":110.3688465},"sentimen":98.50746268656715}
+{"_id":48,"nama":"Cave Tubing Gua Pindul","kategori":"Wisata Alam \u0026 Outdoor","tiket":10000.0,"jam_buka":"Senin - Minggu: pukul 07.00 - 17.00 WIB","lokasi":{"lng":-7.9288263,"lat":110.6466727},"sentimen":0}
+{"_id":49,"nama":"Tugu Jogja","kategori":"Tempat Menarik","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.7836429,"lat":110.3659768},"sentimen":93.5483870967742}
+{"_id":50,"nama":"Taman Sari","kategori":"Tempat Menarik","tiket":5000.0,"jam_buka":"Senin - Minggu: pukul 09.00 - 15.00 WIB","lokasi":{"lng":-7.8099663,"lat":110.3579276},"sentimen":83.78378378378379}
+{"_id":51,"nama":"Taman Pelangi","kategori":"Tempat Menarik","tiket":15000.0,"jam_buka":"Senin - Kamis: pukul 17.00 - 22.00 WIB Jumat - Minggu: pukul 17.00 - 23.00 WIB","lokasi":{"lng":-7.7505312,"lat":110.3667951},"sentimen":57.5}
+{"_id":52,"nama":"Bonbin Gembira Loka","kategori":"Tempat Menarik","tiket":25000.0,"jam_buka":"Senin - Minggu: pukul 07.30 - 17.30 WIB","lokasi":{"lng":-7.8040788,"lat":110.3959022},"sentimen":100.0}
+{"_id":53,"nama":"Pasar Satwa dan Tanaman Hias Yogyakarta (PASTY)","kategori":"Tempat Menarik","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.8251167,"lat":110.3527658},"sentimen":100.0}
+{"_id":54,"nama":"De Arca Statue Museum Yogyakarta","kategori":"Tempat Menarik","tiket":35000.0,"jam_buka":"Rp 90.000 (Senin - Jumat, pukul 10.00 - 15.00 WIB) Rp 100.000 (Senin - Jumat, pukul 15.00 - 22.00 WIB) Rp 120.000 (Senin - Minggu, pukul 10.00 - 22.00 WIB) Gratis (anak usia di bawah 5 tahun) ","lokasi":{"lng":-7.8160005,"lat":110.3850161},"sentimen":0}
+{"_id":55,"nama":"De Mata Trick Eye Museum","kategori":"Tempat Menarik","tiket":60000.0,"jam_buka":"Rp 90.000 (Senin - Jumat, pukul 10.00 - 15.00 WIB) Rp 100.000 (Senin - Jumat, pukul 15.00 - 22.00 WIB) Rp 120.000 (Senin - Minggu, pukul 10.00 - 22.00 WIB) Gratis (anak usia di bawah 5 tahun) ","lokasi":{"lng":-7.8163103,"lat":110.3849555},"sentimen":100.0}
+{"_id":56,"nama":"Museum Sandi","kategori":"Tempat Menarik","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.7845676,"lat":110.3689717},"sentimen":96.15384615384616}
+{"_id":57,"nama":"Embung Batara Sriten","kategori":"Wisata Alam \u0026 Outdoor","tiket":3000.0,"jam_buka":"Senin - Minggu: pukul 04.30 - 18.00 WIB","lokasi":{"lng":-7.8320784,"lat":110.6313733},"sentimen":0}
+{"_id":58,"nama":"Desa Wisata Ketingan","kategori":"Wisata Alam \u0026 Outdoor","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.7423666,"lat":110.3285108},"sentimen":0}
+{"_id":59,"nama":"Kampung Edukasi Watu Lumbung","kategori":"Tempat Menarik","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.9924326,"lat":110.3155893},"sentimen":0}
+{"_id":60,"nama":"Puncak Kosakora","kategori":"Wisata Alam \u0026 Outdoor","tiket":10000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1410679,"lat":110.5818631},"sentimen":100.0}
+{"_id":61,"nama":"Air Terjun Lepo","kategori":"Wisata Alam \u0026 Outdoor","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.9483067,"lat":110.4705297},"sentimen":0}
+{"_id":62,"nama":"Hutan Pinus Mangunan","kategori":"Wisata Alam \u0026 Outdoor","tiket":2500.0,"jam_buka":"Senin - Minggu: pukul 06.00 - 17.00 WIB","lokasi":{"lng":-7.9268357,"lat":110.4308869},"sentimen":96.36363636363636}
+{"_id":63,"nama":"Pemandian Tirta Budi","kategori":"Wisata Alam \u0026 Outdoor","tiket":5000.0,"jam_buka":"Senin - Minggu: pukul 07.00 - 17.30 WIB","lokasi":{"lng":-7.7044305,"lat":110.4480713},"sentimen":0}
+{"_id":64,"nama":"Museum Gunung Api Merapi","kategori":"Tempat Menarik","tiket":5000.0,"jam_buka":"(menonton film tentang Gunung Merapi) Rp Rp 5.000 ","lokasi":{"lng":-7.6159384,"lat":110.4221828},"sentimen":0}
+{"_id":65,"nama":"Pantai Wediombo","kategori":"Pantai","tiket":5000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1872573,"lat":110.7039693},"sentimen":100.0}
+{"_id":66,"nama":"Pantai Depok","kategori":"Pantai","tiket":5000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.0140972,"lat":110.2905529},"sentimen":100.0}
+{"_id":67,"nama":"Pantai Ngrenehan","kategori":"Pantai","tiket":5000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1214009,"lat":110.5138259},"sentimen":100.0}
+{"_id":68,"nama":"Pantai Sepanjang","kategori":"Pantai","tiket":10000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1365213,"lat":110.5653545},"sentimen":88.15789473684211}
+{"_id":69,"nama":"Pantai Baron","kategori":"Pantai","tiket":10000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1288689,"lat":110.5475788},"sentimen":97.05882352941177}
+{"_id":70,"nama":"Pantai Sundak","kategori":"Pantai","tiket":10000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1470074,"lat":110.6071701},"sentimen":100.0}
+{"_id":71,"nama":"Pantai Siung","kategori":"Pantai","tiket":10000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1824362,"lat":110.6815436},"sentimen":47.82608695652175}
+{"_id":72,"nama":"Pantai Sadeng","kategori":"Pantai","tiket":5000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1909289,"lat":110.7973285},"sentimen":100.0}
+{"_id":73,"nama":"Pantai Glagah","kategori":"Pantai","tiket":5000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.9138988,"lat":110.0670527},"sentimen":91.66666666666667}
+{"_id":74,"nama":"Pantai Indrayanti","kategori":"Pantai","tiket":10000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1510169,"lat":110.6123828},"sentimen":100.0}
+{"_id":75,"nama":"Pantai Krakal","kategori":"Pantai","tiket":10000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1453066,"lat":110.5976996},"sentimen":100.0}
+{"_id":76,"nama":"Pantai Parangkusumo","kategori":"Pantai","tiket":5000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.019658,"lat":110.3047832},"sentimen":100.0}
+{"_id":77,"nama":"Pantai Parangtritis","kategori":"Pantai","tiket":5000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.025668,"lat":110.3290283},"sentimen":91.1764705882353}
+{"_id":78,"nama":"Candi Tara","kategori":"Candi","tiket":5000.0,"jam_buka":"Senin - Minggu: pukul 08.00 - 17.00 WIB","lokasi":{"lng":-7.7673857,"lat":110.472037},"sentimen":100.0}
+{"_id":79,"nama":"Pantai Baru","kategori":"Pantai","tiket":4000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.9889752,"lat":110.2198555},"sentimen":70.02724795640327}
+{"_id":80,"nama":"Pantai Ngongap","kategori":"Pantai","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1962271,"lat":110.7663086},"sentimen":0}
+{"_id":81,"nama":"Pantai Ngobaran","kategori":"Pantai","tiket":5000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1192045,"lat":110.5039397},"sentimen":100.0}
+{"_id":82,"nama":"Candi Pawon","kategori":"Candi","tiket":3500.0,"jam_buka":"Senin - Minggu: pukul 06.00 - 17.00 WIB","lokasi":{"lng":-7.6061154,"lat":110.217425},"sentimen":100.0}
+{"_id":83,"nama":"Candi Borobudur","kategori":"Candi","tiket":40000.0,"jam_buka":"Senin - Minggu: pukul 06.00 - 17.00 WIB","lokasi":{"lng":-7.6079036,"lat":110.2023836},"sentimen":71.69811320754718}
+{"_id":84,"nama":"Candi Prambanan","kategori":"Candi","tiket":40000.0,"jam_buka":"Senin - Minggu: pukul 06.00 - 17.00 WIB","lokasi":{"lng":-7.7520153,"lat":110.4892787},"sentimen":93.42105263157896}
+{"_id":85,"nama":"Candi Sambisari","kategori":"Candi","tiket":5000.0,"jam_buka":"Senin - Minggu: pukul 07.00 - 17.00 WIB","lokasi":{"lng":-7.7622641,"lat":110.4472115},"sentimen":81.81818181818181}
+{"_id":86,"nama":"Istana Ratu Boko","kategori":"Candi","tiket":40000.0,"jam_buka":"Senin - Minggu: pukul 06.00 - 17.00 WIB","lokasi":{"lng":-7.7705363,"lat":110.4872271},"sentimen":0.0}
+{"_id":87,"nama":"Candi Mendut","kategori":"Candi","tiket":3500.0,"jam_buka":"Senin - Minggu: pukul 06.00 - 17.00 WIB","lokasi":{"lng":-7.605191,"lat":110.2273813},"sentimen":100.0}
+{"_id":88,"nama":"Candi Plaosan","kategori":"Candi","tiket":3000.0,"jam_buka":"Senin - Minggu: pukul 06.00 - 17.00 WIB","lokasi":{"lng":-7.7403371,"lat":110.5029928},"sentimen":30.434782608695656}
+{"_id":89,"nama":"Gardu Action","kategori":"Tempat Menarik","tiket":5000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.0215678,"lat":110.3199105},"sentimen":0}
+{"_id":90,"nama":"Pantai Drini","kategori":"Pantai","tiket":10000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1382566,"lat":110.5770075},"sentimen":62.162162162162176}
+{"_id":91,"nama":"Pantai Sadranan","kategori":"Pantai","tiket":10000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1459792,"lat":110.6037206},"sentimen":92.30769230769232}
+{"_id":92,"nama":"Pantai Nglambor","kategori":"Pantai","tiket":10000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1826975,"lat":110.6770512},"sentimen":100.0}
+{"_id":93,"nama":"Pantai Pok Tunggal","kategori":"Pantai","tiket":10000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1555152,"lat":110.6194049},"sentimen":83.33333333333334}
+{"_id":94,"nama":"Kotagede","kategori":"Tapak Tilas","tiket":0.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-7.8177991,"lat":110.3801338},"sentimen":76.25570776255708}
+{"_id":95,"nama":"Monumen Jogja Kembali (monjali)","kategori":"Tapak Tilas","tiket":10000.0,"jam_buka":"Senin: Tutup (* kecuali libur sekolah tetap buka seperti hari kerja) Selasa - Minggu: pukul 08.00 - 16.00 WIB","lokasi":{"lng":-7.7495167,"lat":110.3683585},"sentimen":0}
+{"_id":96,"nama":"Pantai Kesirat","kategori":"Pantai","tiket":5000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.0960244,"lat":110.4333182},"sentimen":100.0}
+{"_id":97,"nama":"Pantai Jogan","kategori":"Pantai","tiket":10000.0,"jam_buka":"Senin - Minggu: buka 24 jam","lokasi":{"lng":-8.1798954,"lat":110.6749956},"sentimen":100.0}
+{"_id":98,"nama":"Candi Barong","kategori":"Candi","tiket":5000.0,"jam_buka":"Senin - Minggu: pukul 06.00 - 17.00 WIB","lokasi":{"lng":-7.7757682,"lat":110.496233},"sentimen":0}
+{"_id":99,"nama":"Puncak Becici","kategori":"Wisata Alam \u0026 Outdoor","tiket":2500.0,"jam_buka":"Senin - Minggu: pukul 06.00 - 17.00 WIB","lokasi":{"lng":-7.9018748,"lat":110.4366466},"sentimen":100.0}

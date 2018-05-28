@@ -1,0 +1,99 @@
+{"_id":{"$oid":"5b0aa4525dfb081fcc2a4640"},"nama_wisata":"Jazz Mben Senen","tiket":"0","sentimen":100.0}
+{"_id":{"$oid":"5b0aa4545dfb081fcc2a4641"},"nama_wisata":"Ramayana Ballet","tiket":"400000","sentimen":70.0}
+{"_id":{"$oid":"5b0aa47b5dfb081fcc2a4642"},"nama_wisata":"Kraton","tiket":"7500","sentimen":76.37130801687763}
+{"_id":{"$oid":"5b0ab4ee5dfb081fcc2a4643"},"nama_wisata":"Sendratari Sugriwa Subali","tiket":"0","sentimen":0}
+{"_id":{"$oid":"5b0ab4ee5dfb081fcc2a4644"},"nama_wisata":"Museum Sonobudoyo","tiket":"3000","sentimen":100.0}
+{"_id":{"$oid":"5b0ab4f25dfb081fcc2a4645"},"nama_wisata":"Bintaran","tiket":"0","sentimen":100.0}
+{"_id":{"$oid":"5b0ab5125dfb081fcc2a4646"},"nama_wisata":"Kotabaru","tiket":"0","sentimen":93.33333333333334}
+{"_id":{"$oid":"5b0ab5525dfb081fcc2a4647"},"nama_wisata":"Pecinan","tiket":"0","sentimen":87.91946308724832}
+{"_id":{"$oid":"5b0ab5f85dfb081fcc2a4648"},"nama_wisata":"Pertunjukan Wayang Kulit","tiket":"0","sentimen":20.0}
+{"_id":{"$oid":"5b0ab5f85dfb081fcc2a4649"},"nama_wisata":"Sendang Sriningsih","tiket":"0","sentimen":0}
+{"_id":{"$oid":"5b0ab5f85dfb081fcc2a464a"},"nama_wisata":"Sasana Wiratama","tiket":"0","sentimen":0}
+{"_id":{"$oid":"5b0ab5f95dfb081fcc2a464b"},"nama_wisata":"Gua Maria Tritis","tiket":"0","sentimen":100.0}
+{"_id":{"$oid":"5b0ab6075dfb081fcc2a464c"},"nama_wisata":"Candi Ijo","tiket":"5000","sentimen":75.46012269938649}
+{"_id":{"$oid":"5b0ab60f5dfb081fcc2a464d"},"nama_wisata":"Masjid Kotagede","tiket":"0","sentimen":100.0}
+{"_id":{"$oid":"5b0ab6105dfb081fcc2a464e"},"nama_wisata":"Pabrik Gula Madukismo","tiket":"7000","sentimen":100.0}
+{"_id":{"$oid":"5b0ab6175dfb081fcc2a464f"},"nama_wisata":"Gereja Ganjuran","tiket":"0","sentimen":84.61538461538461}
+{"_id":{"$oid":"5b0ab6295dfb081fcc2a4650"},"nama_wisata":"Kampung Kauman","tiket":"0","sentimen":58.13953488372093}
+{"_id":{"$oid":"5b0ab6295dfb081fcc2a4651"},"nama_wisata":"Museum Sasmitaloka","tiket":"0","sentimen":0}
+{"_id":{"$oid":"5b0ab6295dfb081fcc2a4652"},"nama_wisata":"Sendang Sono","tiket":"0","sentimen":100.0}
+{"_id":{"$oid":"5b0ab6295dfb081fcc2a4653"},"nama_wisata":"Gua Jepang Parangtritis","tiket":"5000","sentimen":0}
+{"_id":{"$oid":"5b0ab63c5dfb081fcc2a4654"},"nama_wisata":"Gunung Nglanggeran","tiket":"15000","sentimen":98.63013698630138}
+{"_id":{"$oid":"5b0ab6ad5dfb081fcc2a4655"},"nama_wisata":"Alun-alun Kidul","tiket":"0","sentimen":74.19354838709677}
+{"_id":{"$oid":"5b0ab6ae5dfb081fcc2a4656"},"nama_wisata":"Kedung Pedut","tiket":"6000","sentimen":33.333333333333336}
+{"_id":{"$oid":"5b0ab6ae5dfb081fcc2a4657"},"nama_wisata":"Gua Kidang Kencana","tiket":"15000","sentimen":0}
+{"_id":{"$oid":"5b0ab6ec5dfb081fcc2a4658"},"nama_wisata":"Gunung Gambar","tiket":"2800","sentimen":82.1917808219178}
+{"_id":{"$oid":"5b0ab6ee5dfb081fcc2a4659"},"nama_wisata":"Kebun Teh Nglinggo","tiket":"5000","sentimen":33.333333333333336}
+{"_id":{"$oid":"5b0ab89c5dfb081fcc2a465a"},"nama_wisata":"Kaliurang","tiket":"2000","sentimen":76.93333333333334}
+{"_id":{"$oid":"5b0ab89d5dfb081fcc2a465b"},"nama_wisata":"Air Terjun Sri Gethuk","tiket":"10000","sentimen":100.0}
+{"_id":{"$oid":"5b0ab8d85dfb081fcc2a465c"},"nama_wisata":"Selokan Mataram","tiket":"0","sentimen":85.26315789473684}
+{"_id":{"$oid":"5b0ab8d85dfb081fcc2a465d"},"nama_wisata":"Wanagama","tiket":"5000","sentimen":100.0}
+{"_id":{"$oid":"5b0ab8dc5dfb081fcc2a465e"},"nama_wisata":"Puncak Suroloyo","tiket":"5000","sentimen":69.23076923076923}
+{"_id":{"$oid":"5b0ab8ea5dfb081fcc2a465f"},"nama_wisata":"Waduk Sermo","tiket":"5000","sentimen":68.0}
+{"_id":{"$oid":"5b0ab8ea5dfb081fcc2a4660"},"nama_wisata":"Gua Rancang Kencono","tiket":"35000","sentimen":0}
+{"_id":{"$oid":"5b0ab8ee5dfb081fcc2a4661"},"nama_wisata":"Pertunjukan Gamelan","tiket":"0","sentimen":100.0}
+{"_id":{"$oid":"5b0abb075dfb081fcc2a4662"},"nama_wisata":"Gunung Merapi","tiket":"0","sentimen":79.73333333333335}
+{"_id":{"$oid":"5b0abb095dfb081fcc2a4663"},"nama_wisata":"Gua Jomblang","tiket":"450000","sentimen":100.0}
+{"_id":{"$oid":"5b0abb1e5dfb081fcc2a4664"},"nama_wisata":"Kalibiru","tiket":"10000","sentimen":75.34246575342465}
+{"_id":{"$oid":"5b0abb1e5dfb081fcc2a4665"},"nama_wisata":"Taman Sungai Mudal","tiket":"4000","sentimen":100.0}
+{"_id":{"$oid":"5b0abb215dfb081fcc2a4666"},"nama_wisata":"Cave Tubing Kalisuci","tiket":"5000","sentimen":75.0}
+{"_id":{"$oid":"5b0abb215dfb081fcc2a4667"},"nama_wisata":"Sosrokusuman","tiket":"0","sentimen":100.0}
+{"_id":{"$oid":"5b0abb235dfb081fcc2a4668"},"nama_wisata":"Gunung Ireng","tiket":"3000","sentimen":100.0}
+{"_id":{"$oid":"5b0abb235dfb081fcc2a4669"},"nama_wisata":"Museum Affandi","tiket":"25000","sentimen":100.0}
+{"_id":{"$oid":"5b0abb235dfb081fcc2a466a"},"nama_wisata":"Gua Kiskendo","tiket":"5000","sentimen":0}
+{"_id":{"$oid":"5b0abb255dfb081fcc2a466b"},"nama_wisata":"Taman Pintar Yogyakarta","tiket":"20000","sentimen":100.0}
+{"_id":{"$oid":"5b0abb3f5dfb081fcc2a466c"},"nama_wisata":"Sosrowijayan","tiket":"0","sentimen":61.29032258064517}
+{"_id":{"$oid":"5b0abd2c5dfb081fcc2a466d"},"nama_wisata":"Malioboro","tiket":"0","sentimen":92.93333333333334}
+{"_id":{"$oid":"5b0abd4f5dfb081fcc2a466e"},"nama_wisata":"Prawirotaman","tiket":"0","sentimen":98.50746268656715}
+{"_id":{"$oid":"5b0abd4f5dfb081fcc2a466f"},"nama_wisata":"Cave Tubing Gua Pindul","tiket":"10000","sentimen":0}
+{"_id":{"$oid":"5b0abd6e5dfb081fcc2a4670"},"nama_wisata":"Tugu Jogja","tiket":"0","sentimen":93.5483870967742}
+{"_id":{"$oid":"5b0abdfe5dfb081fcc2a4671"},"nama_wisata":"Taman Sari","tiket":"5000","sentimen":83.78378378378379}
+{"_id":{"$oid":"5b0abe385dfb081fcc2a4672"},"nama_wisata":"Taman Pelangi","tiket":"15000","sentimen":57.5}
+{"_id":{"$oid":"5b0abe385dfb081fcc2a4673"},"nama_wisata":"Bonbin Gembira Loka","tiket":"25000","sentimen":100.0}
+{"_id":{"$oid":"5b0abe395dfb081fcc2a4674"},"nama_wisata":"Pasar Satwa dan Tanaman Hias Yogyakarta (PASTY)","tiket":"0","sentimen":100.0}
+{"_id":{"$oid":"5b0abe395dfb081fcc2a4675"},"nama_wisata":"De Arca Statue Museum Yogyakarta","tiket":"35000","sentimen":0}
+{"_id":{"$oid":"5b0abe3a5dfb081fcc2a4676"},"nama_wisata":"De Mata Trick Eye Museum","tiket":"60000","sentimen":100.0}
+{"_id":{"$oid":"5b0abe4f5dfb081fcc2a4677"},"nama_wisata":"Museum Sandi","tiket":"0","sentimen":96.15384615384616}
+{"_id":{"$oid":"5b0abe4f5dfb081fcc2a4678"},"nama_wisata":"Embung Batara Sriten","tiket":"3000","sentimen":0}
+{"_id":{"$oid":"5b0abe4f5dfb081fcc2a4679"},"nama_wisata":"Desa Wisata Ketingan","tiket":"0","sentimen":0}
+{"_id":{"$oid":"5b0abe4f5dfb081fcc2a467a"},"nama_wisata":"Kampung Edukasi Watu Lumbung","tiket":"0","sentimen":0}
+{"_id":{"$oid":"5b0abe505dfb081fcc2a467b"},"nama_wisata":"Puncak Kosakora","tiket":"10000","sentimen":100.0}
+{"_id":{"$oid":"5b0abe505dfb081fcc2a467c"},"nama_wisata":"Air Terjun Lepo","tiket":"0","sentimen":0}
+{"_id":{"$oid":"5b0abe565dfb081fcc2a467d"},"nama_wisata":"Hutan Pinus Mangunan","tiket":"2500","sentimen":96.36363636363636}
+{"_id":{"$oid":"5b0abe565dfb081fcc2a467e"},"nama_wisata":"Pemandian Tirta Budi","tiket":"5000","sentimen":0}
+{"_id":{"$oid":"5b0abe565dfb081fcc2a467f"},"nama_wisata":"Museum Gunung Api Merapi","tiket":"5000","sentimen":0}
+{"_id":{"$oid":"5b0abe5c5dfb081fcc2a4680"},"nama_wisata":"Pantai Wediombo","tiket":"5000","sentimen":100.0}
+{"_id":{"$oid":"5b0abe6f5dfb081fcc2a4681"},"nama_wisata":"Pantai Depok","tiket":"5000","sentimen":100.0}
+{"_id":{"$oid":"5b0abe705dfb081fcc2a4682"},"nama_wisata":"Pantai Ngrenehan","tiket":"5000","sentimen":100.0}
+{"_id":{"$oid":"5b0abea15dfb081fcc2a4683"},"nama_wisata":"Pantai Sepanjang","tiket":"10000","sentimen":88.15789473684211}
+{"_id":{"$oid":"5b0abeae5dfb081fcc2a4684"},"nama_wisata":"Pantai Baron","tiket":"10000","sentimen":97.05882352941177}
+{"_id":{"$oid":"5b0abeb05dfb081fcc2a4685"},"nama_wisata":"Pantai Sundak","tiket":"10000","sentimen":100.0}
+{"_id":{"$oid":"5b0abeb65dfb081fcc2a4686"},"nama_wisata":"Pantai Siung","tiket":"10000","sentimen":47.82608695652175}
+{"_id":{"$oid":"5b0abeb75dfb081fcc2a4687"},"nama_wisata":"Pantai Sadeng","tiket":"5000","sentimen":100.0}
+{"_id":{"$oid":"5b0abebc5dfb081fcc2a4688"},"nama_wisata":"Pantai Glagah","tiket":"5000","sentimen":91.66666666666667}
+{"_id":{"$oid":"5b0abec35dfb081fcc2a4689"},"nama_wisata":"Pantai Indrayanti","tiket":"10000","sentimen":100.0}
+{"_id":{"$oid":"5b0abecc5dfb081fcc2a468a"},"nama_wisata":"Pantai Krakal","tiket":"10000","sentimen":100.0}
+{"_id":{"$oid":"5b0abed05dfb081fcc2a468b"},"nama_wisata":"Pantai Parangkusumo","tiket":"5000","sentimen":100.0}
+{"_id":{"$oid":"5b0abeeb5dfb081fcc2a468c"},"nama_wisata":"Pantai Parangtritis","tiket":"5000","sentimen":91.1764705882353}
+{"_id":{"$oid":"5b0abeeb5dfb081fcc2a468d"},"nama_wisata":"Candi Tara","tiket":"5000","sentimen":100.0}
+{"_id":{"$oid":"5b0abf2c5dfb081fcc2a468e"},"nama_wisata":"Pantai Baru","tiket":"4000","sentimen":70.02724795640327}
+{"_id":{"$oid":"5b0abf2c5dfb081fcc2a468f"},"nama_wisata":"Pantai Ngongap","tiket":"0","sentimen":0}
+{"_id":{"$oid":"5b0abf2d5dfb081fcc2a4690"},"nama_wisata":"Pantai Ngobaran","tiket":"5000","sentimen":100.0}
+{"_id":{"$oid":"5b0abf555dfb081fcc2a4691"},"nama_wisata":"Candi Pawon","tiket":"3500","sentimen":100.0}
+{"_id":{"$oid":"5b0ac0ae5dfb081fcc2a4692"},"nama_wisata":"Candi Borobudur","tiket":"40000","sentimen":71.69811320754718}
+{"_id":{"$oid":"5b0ac0fc5dfb081fcc2a4693"},"nama_wisata":"Candi Prambanan","tiket":"40000","sentimen":93.42105263157896}
+{"_id":{"$oid":"5b0ac1015dfb081fcc2a4694"},"nama_wisata":"Candi Sambisari","tiket":"5000","sentimen":81.81818181818181}
+{"_id":{"$oid":"5b0ac1015dfb081fcc2a4695"},"nama_wisata":"Istana Ratu Boko","tiket":"40000","sentimen":0.0}
+{"_id":{"$oid":"5b0ac1235dfb081fcc2a4696"},"nama_wisata":"Candi Mendut","tiket":"3500","sentimen":100.0}
+{"_id":{"$oid":"5b0ac12d5dfb081fcc2a4697"},"nama_wisata":"Candi Plaosan","tiket":"3000","sentimen":30.434782608695656}
+{"_id":{"$oid":"5b0ac12d5dfb081fcc2a4698"},"nama_wisata":"Gardu Action","tiket":"5000","sentimen":0}
+{"_id":{"$oid":"5b0ac13e5dfb081fcc2a4699"},"nama_wisata":"Pantai Drini","tiket":"10000","sentimen":62.162162162162176}
+{"_id":{"$oid":"5b0ac1495dfb081fcc2a469a"},"nama_wisata":"Pantai Sadranan","tiket":"10000","sentimen":92.30769230769232}
+{"_id":{"$oid":"5b0ac14a5dfb081fcc2a469b"},"nama_wisata":"Pantai Nglambor","tiket":"10000","sentimen":100.0}
+{"_id":{"$oid":"5b0ac1535dfb081fcc2a469c"},"nama_wisata":"Pantai Pok Tunggal","tiket":"10000","sentimen":83.33333333333334}
+{"_id":{"$oid":"5b0ac1be5dfb081fcc2a469d"},"nama_wisata":"Kotagede","tiket":"0","sentimen":76.25570776255708}
+{"_id":{"$oid":"5b0ac1be5dfb081fcc2a469e"},"nama_wisata":"Monumen Jogja Kembali (monjali)","tiket":"10000","sentimen":0}
+{"_id":{"$oid":"5b0ac1c05dfb081fcc2a469f"},"nama_wisata":"Pantai Kesirat","tiket":"5000","sentimen":100.0}
+{"_id":{"$oid":"5b0ac1c45dfb081fcc2a46a0"},"nama_wisata":"Pantai Jogan","tiket":"10000","sentimen":100.0}
+{"_id":{"$oid":"5b0ac1c45dfb081fcc2a46a1"},"nama_wisata":"Candi Barong","tiket":"5000","sentimen":0}
+{"_id":{"$oid":"5b0ac1c95dfb081fcc2a46a2"},"nama_wisata":"Puncak Becici","tiket":"2500","sentimen":100.0}
